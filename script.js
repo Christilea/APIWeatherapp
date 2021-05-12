@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 let searchButton = $(".btn");
 let cityNumber = 0;
 
@@ -270,3 +271,6 @@ function initialDisplay() {
 }
 
 initialDisplay();
+=======
+
+>>>>>>> 640b3ec3e11347d90058732edc688380b365c75c
